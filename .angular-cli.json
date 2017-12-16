@@ -9,6 +9,9 @@
         "assets": [
             "assets",
             "favicon.ico",
+            "*.png",
+            "safari-pinned-tab.svg",
+            "browserconfig.xml",
             "manifest.json"
         ],
         "index": "index.html",
