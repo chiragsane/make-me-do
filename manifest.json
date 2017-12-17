@@ -40,6 +40,6 @@
     "theme_color": "#d4e7f7",
     "background_color": "#ffffff",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "fullscreen",
     "start_url": "make-me-do/"
 }
