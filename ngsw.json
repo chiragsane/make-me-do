@@ -9,10 +9,10 @@
       "urls": [
         "/make-me-do/favicon.ico",
         "/make-me-do/index.html",
-        "/make-me-do/inline.3f18fe8eacb75009907d.bundle.js",
-        "/make-me-do/main.4ac60107e7a1039839d7.bundle.js",
+        "/make-me-do/inline.90854bebcb8072985306.bundle.js",
+        "/make-me-do/main.4ceef3a40ec3db3fc2dc.bundle.js",
         "/make-me-do/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
-        "/make-me-do/styles.965d287fdaeb08518ebe.bundle.css"
+        "/make-me-do/styles.f01fa0051b2ebcbf9e03.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/make-me-do/inline.3f18fe8eacb75009907d.bundle.js": "209fa12232dec53a51501f8dc474ef01c9ce6b6e",
-    "/make-me-do/main.4ac60107e7a1039839d7.bundle.js": "6904c69c8d9ca67f03e888470f0cd6c502bfb07d",
+    "/make-me-do/inline.90854bebcb8072985306.bundle.js": "7318e1696a572e0d5b5d4772ef42b264b86441c7",
+    "/make-me-do/main.4ceef3a40ec3db3fc2dc.bundle.js": "50d72064d084e0def3cbe450e197267fa777c1b2",
     "/make-me-do/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
-    "/make-me-do/styles.965d287fdaeb08518ebe.bundle.css": "069f69a26a4456349e368fa7e4466168d00d0637",
+    "/make-me-do/styles.f01fa0051b2ebcbf9e03.bundle.css": "90265020d49c9b12aca725810706633ae79c8922",
     "/make-me-do/favicon.ico": "bbd27c3f9a4717b1daba94d6523805992b0a4028",
-    "/make-me-do/index.html": "c41d9fe691bead72d5fa9162b90a7977f1a10cbd"
+    "/make-me-do/index.html": "aaeeb608efb2a4ecfc26bd828668ad7230336409"
   }
 }
